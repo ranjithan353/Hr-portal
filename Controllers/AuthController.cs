@@ -3,7 +3,7 @@ using HRPortal.Models;
 using HRPortal.Services;
 using Microsoft.AspNetCore.Mvc;
 using BCrypt.Net;
-
+//this is a comment
 namespace HRPortal.Controllers
 {
     [ApiController]
