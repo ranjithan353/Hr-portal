@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ranjitha Gowda\\RiderProjects\\HRPortal\\HRPortal\\HRPortal.csproj": {}
+    "C:\\Users\\Ranjitha Gowda\\RiderProjects\\Hrportal123\\Hr-portal\\HRPortal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ranjitha Gowda\\RiderProjects\\HRPortal\\HRPortal\\HRPortal.csproj": {
+    "C:\\Users\\Ranjitha Gowda\\RiderProjects\\Hrportal123\\Hr-portal\\HRPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ranjitha Gowda\\RiderProjects\\HRPortal\\HRPortal\\HRPortal.csproj",
+        "projectUniqueName": "C:\\Users\\Ranjitha Gowda\\RiderProjects\\Hrportal123\\Hr-portal\\HRPortal.csproj",
         "projectName": "HRPortal",
-        "projectPath": "C:\\Users\\Ranjitha Gowda\\RiderProjects\\HRPortal\\HRPortal\\HRPortal.csproj",
+        "projectPath": "C:\\Users\\Ranjitha Gowda\\RiderProjects\\Hrportal123\\Hr-portal\\HRPortal.csproj",
         "packagesPath": "C:\\Users\\Ranjitha Gowda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ranjitha Gowda\\RiderProjects\\HRPortal\\HRPortal\\obj\\",
+        "outputPath": "C:\\Users\\Ranjitha Gowda\\RiderProjects\\Hrportal123\\Hr-portal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ranjitha Gowda\\AppData\\Roaming\\NuGet\\NuGet.Config"

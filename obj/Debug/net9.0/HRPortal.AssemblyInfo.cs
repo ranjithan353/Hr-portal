@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e6fbe0f84c1f351a06faf4b99bbc1a38bb4cef")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
